@@ -1,0 +1,1 @@
+Worked on solving a real-world problem to aid cricket selectors in team selection by designing and building models such as SVM, Random Forest, Neural Networks, to predict cricket player performance in T20 format using historical data.
